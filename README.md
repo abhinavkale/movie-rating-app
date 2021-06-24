@@ -2,7 +2,7 @@
 
 A movie rating application integrated with public API (TMDB) made with HTML, CSS and JS and :heart:.
 
-Click [here]() to interact...
+Click [here](https://movie-rating-app.netlify.app/) to interact...
 
 ### Highlights:
 
